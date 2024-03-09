@@ -1,0 +1,20 @@
+.odd {
+  background-color: #ffb6c1;
+  font-family: 'Verdana', 'Deja Vu Sans', sans-serif;
+}
+
+#second {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#third {
+  font-size: 24px;
+}
+/* Could have combined the font-size in third and fourth into a class e.g. 'adjust font size' */
+
+#fourth {
+  font-size: 24px;
+  background-color: rgb(99, 255, 164);
+  font-weight: bold;
+}
